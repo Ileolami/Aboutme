@@ -1,8 +1,8 @@
-alert('Makinde mercy')
+alert('Makinde mercy\5.8\Nigeria')
 
-alert('5.8')
 
-alert('Nigeria')
+
+
 
 
 
