@@ -18,7 +18,7 @@ Remember when the Nigerian government bans Twitter for some months? Yes, the cit
 
 Decentralization refers to the architectural and organizational principle of distributing control and authority away from a central entity or authority. This simply means authority and control are not in the hands of one person or organization. It is a basic idea in the creation of the subsequent internet generation, where blockchain technology is crucial. Peer-to-peer protocols, consensus methods, and blockchain networks are used in Web3 to accomplish decentralization.
 
-### Roles of decentralization in Web3
+### ROLES OF DECENTRALIZATION IN WEB3
 
 * **Increased Security**: Since decentralized systems disperse data around numerous nodes or computers, they are safer than centralized ones. Data is kept over a network of computers in Web3, where blockchain technology is frequently used, making it more secure against hacking and data breaches. This improves the applications' security and integrity as well as the data stored in them. For example, distributed ledger like Google sheet.
     
@@ -31,6 +31,6 @@ Decentralization refers to the architectural and organizational principle of dis
 * **Community Governance**: Decentralised governance, in which decisions are made collectively by the community of participants, is a concept introduced in Web3. Users can now participate in the design and direction of the programs they use, replacing the top-down decision-making of centralized systems. Decentralized governance models aim for openness, diversity, and decision-making by consensus.
     
 
-### Conclusion
+### CONCLUSION
 
 Web3's decentralized architecture intends to democratize the internet by granting users more control over their data, promoting trust, and facilitating peer-to-peer interactions. It increases user agency, lessens dependency on centralized authorities, and fosters accountability, security, and privacy.
