@@ -1,5 +1,6 @@
 ---
 title: "Why Decentralization makes web3 better?"
+seoTitle: "Decentralization, web3"
 datePublished: Sun Jul 02 2023 19:25:40 GMT+0000 (Coordinated Universal Time)
 cuid: cljlto94u00010ajr9u4z71wp
 slug: why-decentralization-makes-web3-better
