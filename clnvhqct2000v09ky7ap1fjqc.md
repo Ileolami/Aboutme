@@ -52,7 +52,7 @@ The sole drawback of this extension is that it cannot function without an intern
 
 GitHub Pull Request and Issues is an extension that helps you manage your pull request and issues instead of using the git command line.
 
-It was created to make the deployment of code to GitHub easier without cracking your head with the prompt command. To use this extension, you must GitHub account and link it to your visual code studio.
+It was created to make the deployment of code to GitHub easier without cracking your head with the prompt command. To use this extension, you must have a GitHub account and must have been linked to your visual code studio.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1697445353024/12c197a8-01ca-408b-9c77-6a4531e5b482.png align="center")
 
