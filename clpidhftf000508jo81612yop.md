@@ -19,7 +19,7 @@ Well, the good news is that there is a decentralized and user-centric version of
 
 %[https://media.giphy.com/media/3ohhweiVB36rAlqVCE/giphy.gif] 
 
-Join me on this journey as I take you through an overview of Web5, which includes its meaning, core components, differences between Web2, Web3, and Web5, and use cases.
+Join me on this journey as I take you through an overview of Web5, which includes its meaning, core components, and use cases.
 
 %[https://media.giphy.com/media/V0NAKeuS2zWqqzKXLW/giphy.gif] 
 
