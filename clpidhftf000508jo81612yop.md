@@ -29,7 +29,7 @@ Join me on this journey as I take you through an overview of Web5, which include
 
 Web5 is a decentralized internet where users have complete control over their data. For instance, in June 2021, the Nigerian government banned its citizens from using Twitter, despite constitutional guarantees of freedom of speech and the right to information. This is because they have control over our data and internet access. Web5 prevents such situations from occurring by giving users control over who can access their data and how it is stored.
 
-It will not only give the users a platform to create decentralised apps and offer an unrestricted environment, but also the use of artificial intelligence is highly prominent in Web5 which users can interact with for asking questions and also use to explain a PDF document like the way Bling can summarize an entire current page to users.
+It will not only give the users a platform to create decentralised apps and offer an unrestricted environment, but also the use of artificial intelligence is highly prominent in Web5 which users can interact with for asking questions and also use to explain a PDF document like the way Bing can summarize an entire current page to users.
 
 Now you understand what Web5 is, let's move on to its components
 
