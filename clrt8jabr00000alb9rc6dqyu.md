@@ -1,5 +1,7 @@
 ---
 title: "How to create a Toggle Switch For Dark mode Feature with HTML, CSS and JS"
+seoTitle: "How to Create a Toggle Switch For Dark Mode Feature with HTML, CSS, JS"
+seoDescription: "A beginner's guide in creating toggle switch and implementing dark mode for web apps."
 datePublished: Thu Jan 25 2024 13:13:44 GMT+0000 (Coordinated Universal Time)
 cuid: clrt8jabr00000alb9rc6dqyu
 slug: how-to-create-a-toggle-switch-for-dark-mode-feature-with-html-css-and-js
