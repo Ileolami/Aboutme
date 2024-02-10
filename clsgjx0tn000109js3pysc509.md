@@ -11,6 +11,8 @@ tags: frontend, web-development, webdev, frontend-development
 
 ---
 
+## Introduction
+
 In the vast realm of the internet, the web experienced a remarkable transformation, evolving beyond its humble beginnings. Our journey through the digital landscape unfolded across various versions:
 
 **Web1: The Static Era** In the early days, Web1 brought forth static pages served directly from the server's file system. This was an era of limited user-to-server communication, where personal web pages found their home on ISP (Internet Service Provider)-run servers or free hosting services.
