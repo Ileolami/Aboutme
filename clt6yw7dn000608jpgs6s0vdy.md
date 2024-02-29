@@ -33,7 +33,7 @@ Join me as we deeply dive into the past, present, and future of this notable blo
 
 %[https://media.giphy.com/media/cNFIqM6oTiKCwOuY1G/giphy.gif?cid=790b7611o2xvu2zg7067ehjccn99qegkyc1zf641yqwxd6l4&ep=v1_gifs_search&rid=giphy.gif&ct=g] 
 
-Anatoly Yakovenko, who was once an engineer at Qualcomm published a [whitepaper](https://solana.com/solana-whitepaper.pdf) In November 2017, describing **Proof of History**
+Anatoly Yakovenko, who was once an engineer at [Qualcomm](https://www.qualcomm.com) published a [whitepaper](https://solana.com/solana-whitepaper.pdf) In November 2017, describing **Proof of History**
 
 > as a sequence of computation that can provide a way to cryptographically verify the passage of time between two events. It uses a cryptographically secure function written so that output cannot be predicted from the input, and must be completely executed to generate the output.
 
