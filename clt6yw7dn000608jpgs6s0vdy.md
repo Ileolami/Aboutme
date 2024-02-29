@@ -1,6 +1,7 @@
 ---
 title: "From Childhood to Adulthood: The Ongoing Developmental Phase of Solana"
 seoTitle: "The Historical Journey of Solana"
+seoDescription: "This article describes the historical journey of Solana from their humble beginning to their current state."
 datePublished: Thu Feb 29 2024 08:32:20 GMT+0000 (Coordinated Universal Time)
 cuid: clt6yw7dn000608jpgs6s0vdy
 slug: from-childhood-to-adulthood-the-ongoing-developmental-phase-of-solana
@@ -32,7 +33,11 @@ Join me as we deeply dive into the past, present, and future of this notable blo
 
 %[https://media.giphy.com/media/cNFIqM6oTiKCwOuY1G/giphy.gif?cid=790b7611o2xvu2zg7067ehjccn99qegkyc1zf641yqwxd6l4&ep=v1_gifs_search&rid=giphy.gif&ct=g] 
 
-Anatoly Yakovenko, who was once an engineer at Qualcomm published a [whitepaper In November 2017, describing Proof of History as a sequence of computation that can provide a way to cryptographically verify the passage of time between two events. It uses a cryptographically secure function written so that output cannot be predicted from the input, and must be completely executed to generate the output.](https://solana.com/solana-whitepaper.pdf) This idea was born out of the challenges faced by its competitors, such as Bitcoin and Ethereum, to scale beyond 15 transactions per second globally. This is despite centralized payment systems such as Visa requiring peaks of 65,000 transactions per second (tps).
+Anatoly Yakovenko, who was once an engineer at Qualcomm published a [whitepaper](https://solana.com/solana-whitepaper.pdf) In November 2017, describing **Proof of History**
+
+> as a sequence of computation that can provide a way to cryptographically verify the passage of time between two events. It uses a cryptographically secure function written so that output cannot be predicted from the input, and must be completely executed to generate the output.
+
+This idea was born out of the challenges faced by its competitors, such as Bitcoin and Ethereum, to scale beyond 15 transactions per second globally. This is despite centralized payment systems such as Visa requiring peaks of 65,000 transactions per second (tps).
 
 In a stroke of brilliance reminiscent of light piercing the darkness, Anatoly uncovered the key to synchronizing computers and unlocking a new realm of possibilities. Drawing inspiration from the early days of radio, where the chaos of simultaneous transmissions created disruptive static, Anatoly devised a solution. Radio engineers had ingeniously synchronized clocks at each station to coordinate transmission times, resolving the interference which was tailored down to the description of [Proof of History](https://solana.com/solana-whitepaper.pdf) in his whitepaper.
 
@@ -48,7 +53,7 @@ Anatoly who had been eaten up with curiosity and obsession for Crypto, went as f
 
 %[https://media.giphy.com/media/1460VY4R9MnllK/giphy.gif?cid=790b7611o2xvu2zg7067ehjccn99qegkyc1zf641yqwxd6l4&ep=v1_gifs_search&rid=giphy.gif&ct=g] 
 
-After pregnancy, what's expected is delivery, right?, Yes, you are expected to see a baby afterwards. In the same way, Anatoly had gotten the key to the actualization of his goal, The next phase is implementation.
+After pregnancy, what's expected is delivery, right? 😜, Yes 🎉, you are expected to see a baby afterwards. In the same way, Anatoly had gotten the key to the actualization of his goal, The next phase is implementation.
 
 The question in your mind is how he brought this baby to life. Anatoly began his implementation in a private codebase using C programming language which he later migrated the project into Rust programming language within two weeks, a counsel he had gotten from his former co-worker from Qualcomm whose name is Greg Fitzgerald.
 
@@ -94,7 +99,7 @@ With these, it is best to believe that Solana is here to stay and not backing do
 
 Learn more on [Solana](https://solana.com/solana-whitepaper.pdf)
 
-Solana's Whitepaper
+[Solana's Whitepaper](https://solana.com/solana-whitepaper.pdf)
 
 Interview with [Laura Shin](https://youtu.be/xwFBD2hzChk)
 
