@@ -22,7 +22,7 @@ In this article, I'll introduce you to Glasp, show you how to install it on your
 
 ## What is Glasp?
 
-Glasp which stands for "**Greatest Legacy Accumulated as Shared Proof**" is a social web highlighter that allows users to highlight and organize quotes and ideas from the web while accessing other like-minded people's learning at the same time. It can be used to highlight and tag what you think is important while reading articles or watching videos on the web.
+[Glasp](https://glasp.co/about) which stands for "**Greatest Legacy Accumulated as Shared Proof**" is a social web highlighter that allows users to highlight and organize quotes and ideas from the web while accessing other like-minded people's learning at the same time. It can be used to highlight and tag what you think is important while reading articles or watching videos on the web.
 
 Glasp works with these browsers as an extension such as [Edge, Chrome, Opera mini](https://chromewebstore.google.com/detail/glasp-pdf-web-highlighter/blillmbchncajnhkjfdnincfndboieik), [Safari](https://chromewebstore.google.com/detail/glasp-pdf-web-highlighter/blillmbchncajnhkjfdnincfndboieik) and [Brave](https://chromewebstore.google.com/detail/glasp-pdf-web-highlighter/blillmbchncajnhkjfdnincfndboieik). Glasp is also accessible to both [Android](https://play.google.com/store/apps/details?id=co.glasp.glaspapp) and [IOS](https://apps.apple.com/us/app/glasp/id1645763435) users.
 
