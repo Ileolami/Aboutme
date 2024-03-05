@@ -1,6 +1,6 @@
 ---
 title: "Comprehension made easier with Glasp"
-seoTitle: "Comprehension made easier with Glasp  "
+seoTitle: "Comprehension made easier with Glasp"
 datePublished: Tue Mar 05 2024 16:41:08 GMT+0000 (Coordinated Universal Time)
 cuid: cltelk2rp000309kzf3g289l9
 slug: comprehension-made-easier-with-glasp
@@ -10,7 +10,7 @@ tags: ai, user-experience, studying
 
 ---
 
-Back in my university days in Nigeria, being an undergraduate was no walk in the park. Especially when I was hit with a load of PDF study materials just days before an exam. I offered a course in my third year called "Youth Empowerment." Sounds easy, right? Well, I thought so too, until things took an unexpected turn.
+Back in my university days ,being an undergraduate in Nigerian public university was no walk in the park. Especially when I was hit with a load of PDF study materials just days before an exam. I offered a course in my third year called "Youth Empowerment." Sounds easy, right? Well, I thought so too, until things took an unexpected turn.
 
 Initially, there were supposed to be two lecturers for the course, but only one showed up. My coursemates and I thought we had it all figured out from the course content, but then, a week before the exam, another senior lecturer swooped in to teach us the second part of the course. Talk about being caught off guard!
 
@@ -22,7 +22,7 @@ In this article, I'll introduce you to Glasp, show you how to install it on your
 
 ## What is Glasp?
 
-Glasp which stands for "**Greatest Legacy Accumulated as Shared Proof**" is a social web highlighter that allows users to highlight and organize quotes and ideas from the web while accessing other like-minded people's learning. It can be used to highlight and tag what you think is important while reading articles or watching videos on the web.
+Glasp which stands for "**Greatest Legacy Accumulated as Shared Proof**" is a social web highlighter that allows users to highlight and organize quotes and ideas from the web while accessing other like-minded people's learning at the same time. It can be used to highlight and tag what you think is important while reading articles or watching videos on the web.
 
 Glasp works with these browsers as an extension such as [Edge, Chrome, Opera mini](https://chromewebstore.google.com/detail/glasp-pdf-web-highlighter/blillmbchncajnhkjfdnincfndboieik), [Safari](https://chromewebstore.google.com/detail/glasp-pdf-web-highlighter/blillmbchncajnhkjfdnincfndboieik) and [Brave](https://chromewebstore.google.com/detail/glasp-pdf-web-highlighter/blillmbchncajnhkjfdnincfndboieik). Glasp is also accessible to both [Android](https://play.google.com/store/apps/details?id=co.glasp.glaspapp) and [IOS](https://apps.apple.com/us/app/glasp/id1645763435) users.
 
