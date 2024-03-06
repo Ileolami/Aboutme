@@ -122,7 +122,7 @@ Here's another fantastic feature tailor-made for YouTubers like me, especially t
 
 Let me share a recent experience with you. Last week, I was writing an article about the "[Historical Summary of Solana](https://ileolami.hashnode.dev/from-childhood-to-adulthood-the-ongoing-developmental-phase-of-solana)". Getting the real facts meant I had to watch several interviews with Anatoly Yakovenko to gain deeper insights into why and how he started [Solana](https://solana.com/docs/intro/history). However, with limited time and three lengthy videos to watch, I felt overwhelmed. Reading through transcripts helped, but some parts were missing or had errors, requiring me to play the videos multiple times.
 
-Then, I had an idea: what if I could copy the transcripts and use Glasp to summarize them? However, even that process required me to go through the transcript to find specific quotes or facts.
+Then, I had an idea: what if I could copy the transcripts and use Chat GPT to summarize them? However, even that process required me to go through the transcript to find specific quotes or facts.
 
 With Glasp, all that stress is eliminated. Join me as I walk you through the various ways to use Glasp on YouTube
 
