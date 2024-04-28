@@ -1,6 +1,7 @@
 ---
 title: "Comprehension made easier with Glasp"
-seoTitle: "How to Use Glasp"
+seoTitle: "Simplified Reading with Glasp"
+seoDescription: "Highlight, summarize, and organize web content effortlessly with Glasp. Enhance your learning experience with this powerful tool"
 datePublished: Tue Mar 05 2024 16:41:08 GMT+0000 (Coordinated Universal Time)
 cuid: cltelk2rp000309kzf3g289l9
 slug: comprehension-made-easier-with-glasp
