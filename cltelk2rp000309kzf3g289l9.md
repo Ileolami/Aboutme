@@ -11,7 +11,7 @@ tags: ai, user-experience, studying
 
 ---
 
-Back in my university days ,being an undergraduate in Nigerian public university was no walk in the park. Especially when I was hit with a load of PDF study materials just days before an exam. I offered a course in my third year called "Youth Empowerment." Sounds easy, right? Well, I thought so too, until things took an unexpected turn.
+Back in my university days , being an undergraduate in Nigerian public university was no walk in the park. Especially when I was hit with a load of PDF study materials just days before an exam. I offered a course in my third year called "Youth Empowerment." Sounds easy, right? Well, I thought so too, until things took an unexpected turn.
 
 Initially, there were supposed to be two lecturers for the course, but only one showed up. My coursemates and I thought we had it all figured out from the course content, but then, a week before the exam, another senior lecturer swooped in to teach us the second part of the course. Talk about being caught off guard!
 
