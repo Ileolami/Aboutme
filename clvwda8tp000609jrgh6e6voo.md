@@ -5,8 +5,8 @@ seoDescription: "Learn how to integrate Google login seamlessly into your React.
 datePublished: Tue May 07 2024 12:28:49 GMT+0000 (Coordinated Universal Time)
 cuid: clvwda8tp000609jrgh6e6voo
 slug: how-to-create-google-login-using-google-auth-api-with-reactjs
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714731585518/b60e5695-92ba-41fd-8b89-8f91d3ff2eae.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1715084861133/52fc9b64-9167-4a47-93ef-a2fc20bfafa0.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715085162275/a1387925-985f-42f9-9963-c959dee7e4ae.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1715085189415/e5e35c21-2188-4f45-9f59-ae4eb9db7d54.png
 tags: web-development, google-cloud, apis, google
 
 ---
