@@ -1,10 +1,10 @@
 ---
 title: "From Queues to Quickness: zkSync's Role in Enhancing Ethereum's Scalability"
-seoTitle: "A deep dive into zkSync's technology. "
+seoTitle: "A deep dive into zkSync."
 seoDescription: "zkSync enhances Ethereum's scalability with faster, cheaper transactions using Layer 2 rollups, improving efficiency and reducing congestion"
 datePublished: Fri May 17 2024 17:24:02 GMT+0000 (Coordinated Universal Time)
 cuid: clway8fk5000i09mmfierak9b
-slug: from-queues-to-quickness-zksyncs-role-in-enhancing-ethereums-scalability
+slug: deep-dive-into-zksync-protocol
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715803396274/181a859d-f723-40da-8afc-3b0914b82d2d.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1715966441191/e88b7b24-a158-4932-9106-5a2be76afb09.png
 tags: ethereum, layer2, zkevm, zk-snark, zkrollup
