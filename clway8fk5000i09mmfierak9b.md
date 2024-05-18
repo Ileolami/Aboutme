@@ -202,6 +202,23 @@ If you are interested in implementing zkSync in your project, here are helpful t
 6. Join the zkSync community for [developer update](https://twitter.com/zkSyncDevs)s, [GitHub discussion](https://github.com/zkSync-Community-Hub/zksync-developers/discussions) and [zkSync Discord](https://join.zksync.dev/) to learn, contribute and network.
     
 
+## **Project Ideas**
+
+These are some of the project ideas, you can build on zkSync:
+
+* Wallet: You can build a wallet for your user using the Native Account Abstraction. This will help to easily onboard new member.
+    
+* Cross Chain bridges using the bridging asset feature
+    
+* Decentralized Identity verification systems
+    
+* Micropayment platforms for content creators
+    
+* Prediction Markets and Betting Platforms
+    
+
+[Here are some of the Products built on zkSync to g](https://rzlt.io/the-world-of-zksync/)[et more ideas](https://rzlt.io/the-world-of-zksync/)
+
 ## **Future of Ethereum Scalability with zkSync**
 
 It is the audible to deaf and visible to the blind that the future of Ethereum scalability with zkSync is characterised by improvement and growth.
