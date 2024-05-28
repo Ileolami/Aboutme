@@ -6,7 +6,7 @@ datePublished: Tue May 28 2024 21:10:58 GMT+0000 (Coordinated Universal Time)
 cuid: clwqw6mwf000109jtdojwfla1
 slug: goatcoinstx-the-first-meme-finance-layer-of-bitcoin
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716820806423/a8223fe5-4822-47a7-896c-a2848f50e7eb.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1716932157205/d8dc5e6c-ee8b-48bb-97a6-e2bfc21c5922.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1716932399343/5d58d135-633e-42a2-8d13-24958b13d604.jpeg
 tags: meme, memecoins
 
 ---
@@ -70,7 +70,11 @@ With this understanding of Stack, it is clear that GoatCoinSTX made a wise decis
 
 ### Comparison with other meme finance projects
 
-GoatCoinSTX is building a community-based project. $MEMEGOAT is the official token of Meme Goat Finance and is also a community-based project like other meme coins. According to their [documentation](https://docs.memegoat.io/about-usdmemegoat), their mission is:
+GoatCoinSTX is building a community-based project. $MEMEGOAT is the official token of Meme Goat Finance and is also a community-based project like other meme coins.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1716932369056/362718bc-9e58-4d8b-ad2d-d0caadc638ab.jpeg align="left")
+
+According to their [documentation](https://docs.memegoat.io/about-usdmemegoat), their mission is:
 
 > *“Our mission is to cultivate a vibrant, secure, and all-inclusive meme ecosystem, bringing instant utility and simplicity to meme communities building on Bitcoin.”*
 
