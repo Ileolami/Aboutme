@@ -49,11 +49,11 @@ Memecoins have introduced a new dynamic to the financial ecosystem. They have sh
 
 ### The Technology behind it
 
-You must understand that GoatCoinSTX is building a Bitcoin Layer 2 network on Stack.
+You must understand that GoatCoinSTX is building a Bitcoin Layer 2 network on [Stacks](http://stacks.co).
 
-**Why Stack?**
+**Why Stacks?**
 
-Stack is a layer 2 Bitcoin network that enables smart contracts and decentralized applications to use Bitcoin as a secure base layer. Stacks extend Bitcoin's capabilities without changing it, unlocking billions in latent capital.
+Stacks is a layer 2 Bitcoin network that enables smart contracts and decentralized applications to use Bitcoin as a secure base layer. Stacks extend Bitcoin's capabilities without changing it, unlocking billions in latent capital.
 
 Bitcoin is the most secure, robust, and widely adopted blockchain. With Stack, projects built on it benefit from:
 
