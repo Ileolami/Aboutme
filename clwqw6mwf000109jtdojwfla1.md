@@ -70,7 +70,7 @@ With this understanding of Stack, it is clear that GoatCoinSTX made a wise decis
 
 GoatCoinSTX is building a community-based project. $MEMEGOAT is the official token of Meme Goat Finance and is also a community-based project like other meme coins.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1716932369056/362718bc-9e58-4d8b-ad2d-d0caadc638ab.jpeg align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1716932369056/362718bc-9e58-4d8b-ad2d-d0caadc638ab.jpeg align="center")
 
 According to their [documentation](https://docs.memegoat.io/about-usdmemegoat), their mission is:
 
@@ -99,9 +99,9 @@ You may ask what is this project doing differently from other projects:
 
 ### Community engagement and growth
 
-The primary purpose of GoatCoinSTX is community building, which is clear from the nearly 1000 active members on Discord who engage with each other and collaborate with other projects.
+The primary purpose of GoatCoinSTX is community building, evident from the nearly 1,000 active members on Discord who interact and collaborate with other projects.
 
-This growth is also driven by giving community members a sense of belonging, a welcoming environment, and consistent engagement. They ensure that every upcoming project is shared with the community, followed up on, and decided collectively through voting.
+This growth is fueled by providing members with a sense of belonging, a friendly environment, and ongoing engagement. Every upcoming project is shared with the community, followed up on, and decisions are made collectively through voting.
 
 Some of the evidence below👇
 
@@ -109,7 +109,7 @@ Some of the evidence below👇
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1716931263126/f1e2fcf3-578d-4f5d-bb91-e7661255ebb2.png align="center")
 
-Recently, GoatCoinSTX launched a SocialFi platform, which stands for Social Finance. This is the first campaign application on Bitcoin. The socialFi is a platform to enable projects promote thier tokens and build awareness to enable the have a successful sale launch. It allow users to earn $MEMEGOAT on Twitter by:
+Recently, GoatCoinSTX launched a SocialFi platform, which stands for Social Finance. This is the first SocialFi platform on Bitcoin. The platform helps projects promote their tokens and build awareness for a successful sale launch. It allows users to earn $MEMEGOAT on Twitter by:
 
 1. Promoting crypto projects
     
