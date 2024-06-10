@@ -109,10 +109,6 @@ I know everyone is focused on what they can earn, which is understandable. Howev
 
 Improve your skills; success doesn't happen by chance but by doing things correctly. Learn the necessary skills, put in the effort, and take action. Be good at what you do and approach it strategically and diligently.
 
-## Appreciation
-
-I want to use this medium to appreciate those who has been my mentor and gave me the opportunity to grow more
-
 ## Happy Birthday
 
 %[https://media.giphy.com/media/2umRRFszhDFqo/giphy.gif?cid=790b7611ioueliztg77i77k5yndjyj4syl5btyw42c157pmj&ep=v1_gifs_search&rid=giphy.gif&ct=g] 
