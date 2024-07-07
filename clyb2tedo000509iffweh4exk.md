@@ -1,6 +1,6 @@
 ---
 title: "Deep Dive on ZK on Solana vs Ethereum"
-seoTitle: "ZK Comparison: Solana vs Ethereum"
+seoTitle: "Deep Dive on ZK on Solana vs Ethereum"
 seoDescription: "Comparison of zk Rollups on Ethereum and zk Compression on Solana: efficiency and scalability within blockchain technology"
 datePublished: Sun Jul 07 2024 04:51:44 GMT+0000 (Coordinated Universal Time)
 cuid: clyb2tedo000509iffweh4exk
